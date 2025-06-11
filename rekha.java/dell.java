@@ -1,3 +1,10 @@
+<dependencies>
+  <dependency>
+  <version>
+  <scope> test </scope>
+  war
+  </dependency>
+  </dependencies>
 hello
 hi
 updated
