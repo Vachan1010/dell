@@ -10,8 +10,7 @@
     <build>
         <sourceDirectory>src</sourceDirectory>
     </build>
-</project>
-<distributionManagement>
+         <distributionManagement>
     <repository>
         <id>nexus</id>
         <name>Nexus Release Repository</name>
@@ -23,3 +22,5 @@
         <url>http://<http://15.207.86.171:8081/repository/maven-snapshots/</url>
     </snapshotRepository>
 </distributionManagement>
+</project>
+
